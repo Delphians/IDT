@@ -4,7 +4,8 @@ Click on a state to check the details about a state.
 Use "Search a state" to filter out the states by letters.
 "Open in a second screen" button isn't supported 
 
-# The app supports Android Tablets only (Portrait or Landscape) 
+# Android Tablets only (Portrait or Landscape) 
+    `Gradle JDK is 21 version `
 
 # Tech stack of the base project:   
     `Clean Architecture, Single Activity, MVVM, Hilt/Dagger, Coroutines, 
